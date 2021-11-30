@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521402018 source:f:\programm\data structure\sorting\quick sorting.c
+	<stdio.h>
+	<math.h>
+
+1522170977 source:f:\programm\data structure\sorting\heap sort.c
+	<stdio.h>
+
+1526931755 source:f:\data structure\sorting\bucket sorting.c
+	<stdio.h>
+
+1547323064 source:f:\data structure and algorithm\sorting\shell sort.c
+

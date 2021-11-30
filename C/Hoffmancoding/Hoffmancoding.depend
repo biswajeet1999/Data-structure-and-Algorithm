@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540241840 source:g:\algorithm\hoffmancoding\codegenerator.c
+	<stdio.h>
+	<stdlib.h>
+

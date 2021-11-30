@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1518883231 source:f:\programm\data structure\linked list\reverse linked list.c
+	<stdio.h>
+	<stdlib.h>
+
+1522161505 source:f:\programm\data structure\linked list\pollynomial addition.c
+	<stdio.h>
+	<stdlib.h>
+
+1543448960 source:f:\data structure and algorithm\linked list\xorlist.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+

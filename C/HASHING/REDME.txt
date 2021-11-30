@@ -1,0 +1,11 @@
+hasing collision is of 2 types
+ 
+1. open hasing(chaining)= data store out of hash table
+2. close hasing(open addersing )= data stored in the table in other memory location
+     a. linear probing
+     b. quadratic probing      (for this watch mysirg.com)
+     c. double hasing 
+
+
+but out of these open hasing is more usefull.because if loaded factor(lambda = no of data/ no of field ) >50%, then searching 
+is not efficient.because most of the element store in other places.

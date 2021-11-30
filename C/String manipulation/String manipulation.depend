@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1543126580 source:f:\data structure and algorithm\string manipulation\kbitstring.c
+	<stdio.h>
+
+1555610750 source:f:\data structure and algorithm\string manipulation\rabin krap.c
+	<stdio.h>
+	<string.h>
+

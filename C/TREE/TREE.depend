@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1519490784 source:f:\programm\data structure\tree\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+
+1520194369 source:f:\programm\data structure\tree\avl tree.c
+	<stdio.h>
+	<stdlib.h>
+
+1520611332 source:f:\programm\data structure\tree\heap tree.c
+	<stdio.h>
+
+1521143123 source:f:\programm\data structure\tree\threaded binary tree.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1518010923 source:f:\programm\data structure\queue\liner queue.c
+	<stdio.h>
+	<stdlib.h>
+
+1519322261 source:f:\programm\data structure\queue\priority queue.c
+	<stdio.h>
+	<stdlib.h>
+

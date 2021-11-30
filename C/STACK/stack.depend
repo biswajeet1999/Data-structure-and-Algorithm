@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1516792750 source:f:\programm\data structure\stack\reverse a string using stack.c
+	<stdio.h>
+	<stdlib.h>
+
+1516807300 source:f:\programm\data structure\stack\convert infix to postfix.c
+	<stdio.h>
+	<stdlib.h>
+
+1519416415 source:f:\programm\data structure\stack\evaluation of postfix.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1546084020 source:f:\data structure and algorithm\stack\parenthesis matching.c
+	<stdio.h>
+
